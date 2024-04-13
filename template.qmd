@@ -4,7 +4,7 @@ subtitle: "Your Course - Semester YYYY @ Illinois"
 author: First Last
 date: last-modified
 format:
-  illinois-revealjs: default
+  lmu_munich-revealjs: default
 ---
 
 # Title-Only Slide
