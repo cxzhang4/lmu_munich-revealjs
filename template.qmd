@@ -1,6 +1,6 @@
 ---
-title: Overview of the Illinois Revealjs Theme
-subtitle: "Your Course - Semester YYYY @ Illinois"
+title: Overview of the LMU Revealjs Theme
+subtitle: "Your Course - Semester YYYY @ LMU"
 author: First Last
 date: last-modified
 format:
@@ -25,7 +25,7 @@ Or ordered lists
 1. Ordered list first item
     1. Nested list item
 
-Or **bold**, *italic*, or [URL](https://illinois.edu) text.
+Or **bold**, *italic*, or [URL](https://lmu.de) text.
 
 ## Mathematics
 
@@ -90,19 +90,19 @@ format:
 
 ### Illinois-themed presentation slide deck
 
-The Quarto Illinois Revealjs theme is an extension of Reveal.js and
-offers all of its [features](https://quarto.org/docs/presentations/revealjs/) in the context of being brand friendly at Illinois.
+The Quarto LMU Revealjs theme is an extension of Reveal.js and
+offers all of its [features](https://quarto.org/docs/presentations/revealjs/) in the context of being brand friendly at LMU.
 
 Install the theme without this template:
 
 ```bash
-quarto install extension coatless/quarto-illinois
+quarto install extension cxzhang4/quarto-lmu_munich
 ```
 
 Install the theme with the template being present:
 
 ```bash
-quarto use template coatless/quarto-illinois
+quarto use template coatless/quarto-lmu_munich
 ```
 
 You can learn more about using RevealJS with Quarto at: <https://quarto.org/docs/presentations/revealjs/>
