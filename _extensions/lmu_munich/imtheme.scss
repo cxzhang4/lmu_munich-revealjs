@@ -29,12 +29,12 @@ $selection-bg: #26351c;
 
 .reveal a {
 	line-height: 1.5em;
-	color: #e84a27;
+	color: #00883A;
 	font-weight: 300;
 }
 
 .reveal .footer a {
-	color: #e84a27 !important;
+	color: #00883A !important;
 }
 
 .reveal p {
@@ -58,7 +58,7 @@ $selection-bg: #26351c;
 }
 
 h1.title {
-	color: #1a292c;
+	color: #232323;
 	font-size: 45px;
 	text-shadow: none;
 	font-weight: 400;
@@ -69,7 +69,7 @@ h1.title {
 p.subtitle {
 	// margin-top: -10px;
 	// padding-bottom: -20px;
-	color: #1a292c;
+	color: #232323;
 	text-shadow: none;
 	font-weight: 300;
 	font-size: 40px;
@@ -77,7 +77,7 @@ p.subtitle {
 	margin-left: 15px;
 }
 p.author {
-	color: #1a292c;
+	color: #232323;
 	text-shadow: none;
 	font-weight: 300;
 	font-size: 30px;
@@ -88,7 +88,7 @@ p.author {
 }
 
 p.date {
-	color: #1a292c;
+	color: #232323;
 	text-shadow: none;
 	font-weight: 300;
 	font-size: 30px;
@@ -101,8 +101,8 @@ p.subtitle:after {
 	content: "";
 	display: block;
 	border: none;
-	background-color: #eb811b;
-	color: #eb811b;
+	background-color: #00883A;
+	color: #00883A;
 	height: 1px;
 	margin: 25px 0 25px;
 }
@@ -113,8 +113,8 @@ h1::after {
 	content: "";
 	display: block;
 	border: none;
-	background-color: #eb811b;
-	color: #eb811b;
+	background-color: #00883A;
+	color: #00883A;
 	height: 1px;
 	margin: 1em 10px 0 10px;
 }
@@ -191,7 +191,7 @@ h2::after.title {
 }
 
 .reveal h2 {
-	background-color: #13294b; //#23373b;
+	background-color: #00883A; //#23373b;
 	padding: 5px 0px 5px 10px;
 	color: #fafafa;
 	//border-radius: 12px; // not a fan of rounded borders
@@ -204,7 +204,7 @@ h2::after.title {
     width: 120px;
     top: 5px;
     right: 5px;
-    background-image: url(../../../../../LMU_Logo_RGB_FlaechigGruen.png); /* Better than using an absolute path, though this can't be the best way to include an image! */
+    background-image: url(../../../../../logo_images/1_logo_png/LMU_Logo_RGB_InvertiertWeiss.png); /* Better than using an absolute path, though this can't be the best way to include an image! */
     background-repeat: no-repeat;
     background-size: contain;
 }
@@ -280,5 +280,5 @@ iframe {
 }
 
 .reveal .progress {
-	color: #23373b;
+	color: #232323;
 }
