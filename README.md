@@ -4,6 +4,8 @@ A [quarto extension](https://quarto.org/docs/extensions/) featuring an [LMU-insp
 
 # Credit for development goes to James Balamuta and any other developers of the Illinois theme. (Also, being able to refer to Kat Hoffman's similar changes made this easier.
 
+# The following is essentially copied from the [original README](https://github.com/coatless-quarto/illinois-revealjs)
+
 [![](title-slide-quarto-lmu_munich.png)](http://quarto.thecoatlessprofessor.com/illinois-revealjs/)
 
 See the included [template.qmd](template.qmd) file for an example of the theme and integration into Quarto or explore the rendered version of the base version [here](http://quarto.thecoatlessprofessor.com/illinois-revealjs/).
