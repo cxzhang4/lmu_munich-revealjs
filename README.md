@@ -2,6 +2,8 @@
 
 A [quarto extension](https://quarto.org/docs/extensions/) featuring an [LMU-inspired theme](https://www.lmu.de/de/die-lmu/struktur/zentrale-universitaetsverwaltung/kommunikation-und-presse/lmu-brand-guide/designgrundsaetze/farben/) for the [reveal.js format](https://quarto.org/docs/presentations/revealjs/).
 
+# Credit for development goes to James Balamuta and any other developers of the Illinois theme. (Also, being able to refer to Kat Hoffman's similar changes made this easier.
+
 [![](title-slide-quarto-lmu_munich.png)](http://quarto.thecoatlessprofessor.com/illinois-revealjs/)
 
 See the included [template.qmd](template.qmd) file for an example of the theme and integration into Quarto or explore the rendered version of the base version [here](http://quarto.thecoatlessprofessor.com/illinois-revealjs/).
