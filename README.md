@@ -1,10 +1,10 @@
-# Illinois-themed Revealjs Extension For Quarto
+# LMU-themed Revealjs Extension For Quarto
 
-A [quarto extension](https://quarto.org/docs/extensions/) featuring an [Illinois-inspired theme](https://marketing.illinois.edu/visual-identity/color) for the [reveal.js format](https://quarto.org/docs/presentations/revealjs/).
+A [quarto extension](https://quarto.org/docs/extensions/) featuring an [LMU-inspired theme](https://www.lmu.de/de/die-lmu/struktur/zentrale-universitaetsverwaltung/kommunikation-und-presse/lmu-brand-guide/designgrundsaetze/farben/) for the [reveal.js format](https://quarto.org/docs/presentations/revealjs/).
 
-[![](title-slide-quarto-illinois.png)](http://quarto.thecoatlessprofessor.com/illinois-revealjs/)
+[![](title-slide-quarto-lmu_munich.png)](http://quarto.thecoatlessprofessor.com/illinois-revealjs/)
 
-See the included [template.qmd](template.qmd) file for an example of the theme and integration into Quarto or explore the rendered version [here](http://quarto.thecoatlessprofessor.com/illinois-revealjs/).
+See the included [template.qmd](template.qmd) file for an example of the theme and integration into Quarto or explore the rendered version of the base version [here](http://quarto.thecoatlessprofessor.com/illinois-revealjs/).
 
 ## Installing
 
@@ -19,14 +19,14 @@ you can use as a starting place for your presentation slides.
 
 ## Using
 
-Once the extension is installed, you can use the extension by setting the `format` inside of the document header to `illinois-revealjs`.
+Once the extension is installed, you can use the extension by setting the `format` inside of the document header to `lmu_munich-revealjs`.
 
 ```markdown
 ---
 title: A title
 subtitle: A subtitle
 format:
-  illinois-revealjs: default
+  lmu_munich-revealjs: default
 author:
   - name: Your Name
     orcid: 0000-0000-0000-0000
@@ -40,7 +40,7 @@ If you wanted to use other [reveal.js features in quarto](https://quarto.org/doc
 
 ```yaml
 format:
-  illinois-revealjs:
+  lmu_munich-revealjs:
     chalkboard: true
 ```
 
