@@ -12,6 +12,12 @@ See the included [template.qmd](template.qmd) file for an example of the theme a
 
 ## Installing
 
+[The Quarto installation documents](https://quarto.org/docs/extensions/managing.html) contain the instructions that work for me.
+
+```bash
+quarto add cxzhang4/lmu_munich-revealjs
+```
+
 You can obtain a copy of the extension by using:
 
 ```bash
