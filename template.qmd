@@ -82,7 +82,7 @@ The theme is built ontop of Quarto's `revealjs` implementation. So, any [feature
 
 ```yaml
 format:
-  illinois-revealjs: 
+  lmu_munich-revealjs: 
     chalkboard: true
 ```
 
