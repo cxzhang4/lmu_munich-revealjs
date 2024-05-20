@@ -88,7 +88,7 @@ format:
 
 ## Summary {#sec-summary}
 
-### Illinois-themed presentation slide deck
+### LMU-themed presentation slide deck
 
 The Quarto LMU Revealjs theme is an extension of Reveal.js and
 offers all of its [features](https://quarto.org/docs/presentations/revealjs/) in the context of being brand friendly at LMU.
